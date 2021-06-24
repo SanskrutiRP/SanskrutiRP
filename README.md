@@ -10,7 +10,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=SanskrutiRP.SanskrutiRP)<br>
 
 <br>
-<img src="https://github.com/SanskrutiRP/SanskrutiRP/blob/main/my.gif" height = "300" width="540" align="right">
+<img src="https://github.com/SanskrutiRP/SanskrutiRP/blob/main/my.gif" height = "200" width="440" align="right">
 
 <!--**SanskrutiRP/SanskrutiRP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
