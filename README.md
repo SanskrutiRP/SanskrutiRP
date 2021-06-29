@@ -15,7 +15,7 @@
 <!--**SanskrutiRP/SanskrutiRP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
-I am self tought Web Developer who loves to build interfaces. ✨
+I am self taught Web Developer who loves to build interfaces. ✨
 
 I am passionate of learning new things and implementing those into real time scenarios.
 
