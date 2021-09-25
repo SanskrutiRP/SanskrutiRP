@@ -25,7 +25,7 @@ I am an open source enthusiast.
 
 I learnt a lot from open source community and trying to give my best towards the same.
 
-Currently learning Block Chain.✨
+Currently learning BlockChain.✨
 
 
 😄 Pronouns: She/Her
