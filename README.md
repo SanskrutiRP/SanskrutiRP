@@ -50,4 +50,4 @@ Currently learning BlockChain.✨
 
 <img src="https://github-readme-stats.vercel.app/api?username=SanskrutiRP&show_icons=true&theme=gotham" alt="sanskriti" />
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sanskrutirp&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sanskrutirp&date_format=M%20j%5B%2C%20Y%5D&theme=dark)](https://git.io/streak-stats)
