@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/sanskruti-p-6a24b5167/">
   <img align="left" alt="Sanskriti's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://twitter.com/Sanskru21418822">
+<a href="https://twitter.com/sanskritirp">
   <img align="left" alt="Sanskriti | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
