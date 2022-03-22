@@ -10,22 +10,16 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=SanskrutiRP.SanskrutiRP)<br>
 
 <br>
-<img src="https://github.com/SanskrutiRP/SanskrutiRP/blob/main/my.gif" height = "250" width="440" align="right">
+
 
 <!--**SanskrutiRP/SanskrutiRP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
 I am self taught Web Developer who loves to build interfaces. ✨
-
-I am passionate of learning new things and implementing those into real time scenarios.
-
 Curious developer who is interested in collaborating.
-
 I am an open source enthusiast.
-
 I learnt a lot from open source community and trying to give my best towards the same.
-
-Currently learning BlockChain.✨
+Currently learning BlockChain.
 
 
 😄 Pronouns: She/Her
