@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"><br>
 
-<a href="https://www.linkedin.com/in/sanskruti-p-6a24b5167/">
+<a href="https://www.linkedin.com/in/sanskrutirp/">
   <img align="left" alt="Sanskriti's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://twitter.com/sanskritirp">
